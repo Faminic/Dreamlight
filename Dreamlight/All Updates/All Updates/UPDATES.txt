@@ -1,0 +1,24 @@
+inner1 - Product Page
+ - changed the pictures of all products
+ - added the three new images to the "images" folder
+ - changed tabs
+
+
+inner3 - Dreamlight Pro Product Page
+ - changed video to correct one (add "#t=1.8" after .mp4 of the video in code)
+ - put that video in the "videos" folder
+ - added cursor blocking on "Add to bag" button
+ - added correct links for "View this project" and "share this project" button
+ - added colours to the ccs style folder
+ - changed the colour options in the drop-down menu
+ - created dreamlight ease and heat product page
+ - added new pictures to the "images" file
+ - replaced product images of Pro, Heat and Ease
+ - changed tabs
+ - changed "Overview" section for Ease and Heat
+ - changed size and background colour of images used in all product pages
+
+Amazon Page
+ - changed tabs
+ - added rest of pro page to this page
+ - added bottom-margin: 35px to css style file for this page

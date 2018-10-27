@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1229px" viewBox="0 0 1280 1229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="58.5262299%" y1="24.3611729%" x2="58.5262299%" y2="93.67472%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F7F7F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Page" transform="translate(0.000000, -1755.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-8" transform="translate(-301.000000, 1755.000000)">
+                <path d="M0,0 L1920,0 L1920,1154.401 C1671.81357,1231.01073 1375.56745,1248.18712 1031.26163,1205.93017 C686.955809,1163.67321 343.201933,1144.27749 0,1147.74301 L0,0 Z" id="Mask"></path>
+            </g>
+        </g>
+    </g>
+</svg>

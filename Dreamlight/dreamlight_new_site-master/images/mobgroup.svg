@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="563px" height="824px" viewBox="0 0 563 824" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-15.8%" y="-5.6%" width="131.7%" height="115.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M87.6340212,24.7911073 L222.391997,24.7911073 C233.350246,24.7911073 242.233662,15.9116218 242.233662,3.92525865 C242.345825,1.80664405 244.041106,0.112112938 246.155315,0.00534139171 L278.610048,0 C295.96061,-5.87171373e-15 310.026018,14.0591853 310.026018,31.4020692 L310.026018,639.610567 C310.026018,656.953451 295.96061,671.012637 278.610048,671.012637 L31.4159699,671.012637 C14.0654088,671.012637 0,656.953451 0,639.610567 L0,31.4020692 C0,14.0591853 14.0654088,5.87171373e-15 31.4159699,0 L63.8653598,0 C65.9849122,0.112112938 67.6801934,1.80664405 67.7870122,3.91991726 C67.792356,15.9116218 76.6757721,24.7911073 87.6340212,24.7911073 Z" id="path-2"></path>
+        <filter x="-15.8%" y="-5.6%" width="131.7%" height="115.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M87.6340212,24.7911073 L222.391997,24.7911073 C233.350246,24.7911073 242.233662,15.9116218 242.233662,3.92525865 C242.345825,1.80664405 244.041106,0.112112938 246.155315,0.00534139171 L278.610048,0 C295.96061,-5.87171373e-15 310.026018,14.0591853 310.026018,31.4020692 L310.026018,639.610567 C310.026018,656.953451 295.96061,671.012637 278.610048,671.012637 L31.4159699,671.012637 C14.0654088,671.012637 0,656.953451 0,639.610567 L0,31.4020692 C0,14.0591853 14.0654088,5.87171373e-15 31.4159699,0 L63.8653598,0 C65.9849122,0.112112938 67.6801934,1.80664405 67.7870122,3.91991726 C67.792356,15.9116218 76.6757721,24.7911073 87.6340212,24.7911073 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Page" transform="translate(-51.000000, -175.000000)">
+            <g id="Group-6" transform="translate(-214.000000, 0.000000)">
+                <g id="Group-2" transform="translate(296.000000, 191.000000)">
+                    <g id="iPhone_X" filter="url(#filter-1)" transform="translate(0.000000, 60.000000)">
+                        <rect id="Inner_Frame" fill="#FFFFFF" x="0" y="0" width="340.645872" height="701.629183" rx="43.3242292"></rect>
+                        <g id="~SCREEN-HERE~" transform="translate(15.309927, 15.308273)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Screen" fill="#EFEFEF" xlink:href="#path-2"></use>
+                        </g>
+                        <ellipse id="Outline_02" fill="#F2F2F2" cx="208.597753" cy="21.0488755" rx="5.74122256" ry="5.74060241"></ellipse>
+                        <rect id="Bar_02" fill="#F2F2F2" x="149.271787" y="19.1353414" width="44.6539533" height="5.10275769" rx="2.55137885"></rect>
+                    </g>
+                    <g id="iPhone_X" filter="url(#filter-4)" transform="translate(160.000000, 0.000000)">
+                        <rect id="Inner_Frame" fill="#FFFFFF" x="0" y="0" width="340.645872" height="701.629183" rx="43.3242292"></rect>
+                        <g id="~SCREEN-HERE~" transform="translate(15.309927, 15.308273)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Screen" fill="#EFEFEF" xlink:href="#path-5"></use>
+                        </g>
+                        <ellipse id="Outline_02" fill="#F2F2F2" cx="208.597753" cy="21.0488755" rx="5.74122256" ry="5.74060241"></ellipse>
+                        <rect id="Bar_02" fill="#F2F2F2" x="149.271787" y="19.1353414" width="44.6539533" height="5.10275769" rx="2.55137885"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

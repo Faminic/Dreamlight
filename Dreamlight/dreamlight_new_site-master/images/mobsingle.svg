@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="485px" height="873px" viewBox="0 0 485 873" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone_X</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-25.9%" y="-11.3%" width="151.8%" height="125.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="30" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M94.3087209,26.6644205 L239.330622,26.6644205 C251.123513,26.6644205 260.68354,17.1139663 260.68354,4.22186658 C260.804245,1.94316115 262.628649,0.120584631 264.903887,0.0057450082 L299.830556,0 C318.502633,-6.31540343e-15 333.639343,15.1215524 333.639343,33.7749326 L333.639343,687.942049 C333.639343,706.595429 318.502633,721.716982 299.830556,721.716982 L33.8087867,721.716982 C15.1367094,721.716982 0,706.595429 0,687.942049 L0,33.7749326 C0,15.1215524 15.1367094,6.31540343e-15 33.8087867,0 L68.7297046,0 C71.0106941,0.120584631 72.8350975,1.94316115 72.9500522,4.21612157 C72.955803,17.1139663 82.51583,26.6644205 94.3087209,26.6644205 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Page" transform="translate(-415.000000, -1846.000000)">
+            <g id="Group-8" transform="translate(-301.000000, 1755.000000)">
+                <g id="iPhone_X" filter="url(#filter-1)" transform="translate(775.000000, 140.000000)">
+                    <rect id="Inner_Frame" fill="#FFFFFF" x="0" y="0" width="366.591377" height="754.647034" rx="46.6240461"></rect>
+                    <g id="~SCREEN-HERE~" transform="translate(16.476017, 16.465026)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Screen" fill="#EFEFEF" xlink:href="#path-2"></use>
+                    </g>
+                    <ellipse id="Outline_02" fill="#F2F2F2" cx="224.485731" cy="22.639411" rx="6.17850635" ry="6.17438482"></ellipse>
+                    <rect id="Bar_02" fill="#F2F2F2" x="160.641165" y="20.5812827" width="48.0550494" height="5.48834207" rx="2.74417103"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

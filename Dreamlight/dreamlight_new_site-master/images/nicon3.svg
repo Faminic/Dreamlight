@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Page" transform="translate(-992.000000, -1415.000000)" fill-rule="nonzero">
+            <g id="Group-16" transform="translate(40.000000, 1215.000000)">
+                <g id="Group-15" transform="translate(782.000000, 120.000000)">
+                    <g id="Group-14" transform="translate(50.000000, 80.000000)">
+                        <g id="box" transform="translate(120.000000, 0.000000)">
+                            <polygon id="Shape" fill="#949EA8" points="0 15 0 65 40 80 40 30"></polygon>
+                            <polygon id="Shape" fill="#D8D8D8" points="80 15 80 65 40 80 40 30"></polygon>
+                            <polygon id="Shape" fill="#D8D8D8" points="40 0 0 15 40 30 80 15"></polygon>
+                            <polygon id="Shape" fill="#FF6E25" points="55 24.4 40 18.215 40 18.2 50 13.95 50 13.93 65 20.65 65 38.15 55 41.9"></polygon>
+                            <polygon id="Shape" fill="#FAFAFA" points="20 59.83 10 56.08 10 61.42 20 65.17"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
