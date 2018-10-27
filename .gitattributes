@@ -1,0 +1,2 @@
+*.ksp filter=lfs diff=lfs merge=lfs -text
+*.sketch filter=lfs diff=lfs merge=lfs -text
